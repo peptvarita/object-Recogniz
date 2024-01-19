@@ -1,0 +1,4 @@
+body{
+    background: linear-gradient(135deg, orange 60%, cyan);
+}
+#camera,#result{height: 450px;width: 450px;border: 5px solid cyan;}
